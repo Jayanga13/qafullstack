@@ -19,6 +19,7 @@ resource "aws_instance" "JayangaW" {
 #####
 ####
 ###
+#####
 ####
 ####
 output "instance_ips"
